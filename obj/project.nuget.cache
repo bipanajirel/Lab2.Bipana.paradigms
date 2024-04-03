@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "K+Pm3HcEzcvKHso0iSPv8BwCSSzo/XNnJ1IjoLvYiXuKRM9mgfxzGmj80oN74+ibzCfqm8bjHTkBew/6x3xC5Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\97798\\Desktop\\Bipana\\Programming paradigms\\Budget-Lab2\\Budget-Lab2.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\97798\\.nuget\\packages\\fsharp.core\\8.0.200\\fsharp.core.8.0.200.nupkg.sha512"
+  ],
+  "logs": []
+}
